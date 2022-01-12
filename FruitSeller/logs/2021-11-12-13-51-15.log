@@ -1,0 +1,4 @@
+13:51:15 [Skill] INFO  Skill:139 - Connecting to Furhat server on 0.0.0.0:1932
+13:51:15 [FruitsellerSkill] INFO  FruitsellerSkill:166 - Starting skill
+13:51:25 [FruitsellerSkill] ERROR FlowControlRunner: 57 - Cannot call state sayState from instant trigger
+13:51:58 [EventSystem] INFO  FruitsellerSkill:184 - Terminating skill
