@@ -9,15 +9,20 @@ val Start : State = state(Interaction) {
 
     onEntry {
         random(
-                {furhat.say("Hi there")},
-                {furhat.say("Oh, hello there general kenobi")}
+                {furhat.say("Hello there!")},
+                {furhat.say("Welcome!")},
+                {furhat.say("Hi there!")}
         )
-
-        goto(TakingOrder)
+        //goto(TakingOrder)
+        goto(HearCondition)
     }
 }
 
 val Options = state(Interaction) {
+
+    onResponse<ContactDoctor> {
+        furhat.say ("Okay, let me see if I can get you in touch with a human doctor...")
+    }
 
     onResponse<BuyFruit> {
         val fruits = it.intent.fruits
@@ -35,8 +40,13 @@ val Options = state(Interaction) {
     }
 
     onResponse<RequestPurpose> {
-        furhat.say("Welcome to my fruit stand, my name is furhat, I'm but a simple robot selling simple fruits to travelers")
-        furhat.ask("Do you want to buy some of my delicious fruits?")
+        //furhat.say("Welcome to my fruit stand, my name is furhat, I'm but a simple robot selling simple fruits to travelers")
+        //furhat.ask("Do you want to buy some of my delicious fruits?")
+        random(
+                { furhat.say("My name is Furhat, I'm a social robot with the goal of making your experience better and more interactive") },
+                { furhat.say("You can call me Furhat, I'm here to assist you in your medical needs") }
+        )
+        furhat.ask("Now..., is there anything I can help you with?")
     }
 
     onResponse<Yes> {
@@ -56,7 +66,26 @@ val TakingOrder = state(parent = Options) {
     }
 
     onResponse<No> {
-        furhat.say("Okay, that's a shame. Have a splendid day!")
+        furhat.say("Okay, if you're feeling good that's fantastic. Have a splendid day!")
+        goto(Idle)
+    }
+}
+
+val HearCondition = state(parent = Options) {
+    onEntry {
+        random(
+                {furhat.ask("How are you feeling today?")},
+                {furhat.ask("How can I help you today?")},
+                {furhat.ask("How may I assist you?")}
+        )
+    }
+    onResponse<GiveSymptoms> {
+        furhat.say("Okay, that's not good. Lets see if I can assist you with that!")
+        goto(Idle)
+    }
+
+    onResponse<No> {
+        furhat.say("Okay, if you're feeling good that's fantastic. Have a splendid day!")
         goto(Idle)
     }
 }

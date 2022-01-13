@@ -29,12 +29,35 @@ class RequestOptions: Intent() {
     }
 }
 
+class GiveSymptoms: Intent() {
+    override fun getExamples(lang: Language): List<String> {
+        return listOf(
+                "My stomach hurts",
+                "There is something bad with my stomach",
+                "I have a headache",
+                "My head hurts"
+        )
+    }
+}
+
+class ContactDoctor: Intent() {
+    override fun getExamples(lang: Language): List<String> {
+        return listOf(
+                "I need to see a doctor",
+                "Let me see a human doctor",
+                "Meet a human"
+        )
+    }
+}
+
 class RequestPurpose: Intent() {
     override fun getExamples(lang: Language): List<String> {
         return listOf("who are you?",
                 "what is this?",
                 "where am I?",
-                "what is your purpose?")
+                "what is your purpose?",
+                "what are you"
+        )
     }
 }
 
