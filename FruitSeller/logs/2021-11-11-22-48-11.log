@@ -1,5 +1,0 @@
-22:48:11 [Skill] INFO  Skill:139 - Connecting to Furhat server on 0.0.0.0:1932
-22:48:16 [FruitsellerSkill] INFO  FruitsellerSkill:166 - Starting skill
-22:48:25 [pool-3-thread-1] ERROR Interpreter: 44 - Could not preload entity furhatos.app.fruitseller.nlu.FruitList, : Could not instantiate: furhatos.app.fruitseller.nlu.QuantifiedFruit
-22:48:25 [pool-3-thread-1] ERROR Interpreter: 44 - Could not preload entity furhatos.app.fruitseller.nlu.FruitList, : Could not instantiate: furhatos.app.fruitseller.nlu.QuantifiedFruit
-22:48:32 [pool-3-thread-1] ERROR Interpreter: 44 - Could not preload entity furhatos.app.fruitseller.nlu.FruitList, : Could not instantiate: furhatos.app.fruitseller.nlu.QuantifiedFruit

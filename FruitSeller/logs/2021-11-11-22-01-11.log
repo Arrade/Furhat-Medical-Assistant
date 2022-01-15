@@ -1,5 +1,0 @@
-22:01:11 [Skill] INFO  Skill:139 - Connecting to Furhat server on 0.0.0.0:1932
-22:01:16 [FruitsellerSkill] INFO  FruitsellerSkill:166 - Starting skill
-22:01:19 [pool-3-thread-1] WARN  ComplexEnumEntity: 54 - Not field with name 'fruits' in class furhatos.app.fruitseller.nlu.QuantifiedFruit
-22:01:19 [pool-3-thread-1] WARN  ComplexEnumEntity: 54 - Not field with name 'fruits' in class furhatos.app.fruitseller.nlu.QuantifiedFruit
-22:01:43 [EventSystem] INFO  FruitsellerSkill:184 - Terminating skill
