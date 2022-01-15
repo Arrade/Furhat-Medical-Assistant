@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abf1126d-549d-4d5a-b738-7b0e62592a00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/4.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/4.5/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/4.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/4.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/4.5/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/4.5/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/4.5/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__cc_mallet_mallet_2_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_core_1_11_702.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_kms_1_11_702.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_s3_1_11_702.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_amazonaws_jmespath_java_1_11_702.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_eclipsesource_minimal_json_minimal_json_0_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_6_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_6_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_furhatrobotics_furhatos_furhat_commons_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_api_common_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_client_google_api_client_1_30_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_gax_1_50_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_gax_grpc_1_50_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_gax_httpjson_0_66_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_grpc_proto_google_cloud_translate_v3_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_grpc_proto_google_cloud_translate_v3beta1_0_77_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_grpc_proto_google_common_protos_1_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_api_grpc_proto_google_iam_v1_0_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_apis_google_api_services_translate_v2_rev20170525_1_30_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_auth_google_auth_library_credentials_0_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_auth_google_auth_library_oauth2_http_0_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_cloud_google_cloud_core_1_91_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_cloud_google_cloud_core_http_1_91_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_cloud_google_cloud_translate_1_94_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_guava_guava_28_1_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_http_client_google_http_client_1_32_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_http_client_google_http_client_appengine_1_32_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_http_client_google_http_client_jackson2_1_32_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_oauth_client_google_oauth_client_1_30_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_util_3_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_googlecode_matrix_toolkits_java_mtj_0_9_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_googlecode_netlib_java_netlib_java_0_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_sparkjava_spark_core_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__com_univocity_univocity_parsers_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__de_bwaldvogel_liblinear_2_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__eu_neilalexander_jnacl_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_alts_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_api_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_auth_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_context_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_core_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_grpclb_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_netty_shaded_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_protobuf_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_protobuf_lite_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_grpc_grpc_stub_1_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_opencensus_opencensus_api_0_24_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_opencensus_opencensus_contrib_grpc_metrics_0_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_opencensus_opencensus_contrib_http_util_0_24_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__io_perfmark_perfmark_api_0_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__jgrapht_jgrapht_0_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__joda_time_joda_time_2_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__junit_junit_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__khttp_khttp_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__net_sf_jwordnet_jwnl_1_4_rc3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__net_sf_trove4j_trove4j_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__net_sourceforge_f2j_arpack_combined_all_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_apache_commons_commons_csv_1_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_conscrypt_conscrypt_openjdk_uber_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_client_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_server_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_servlet_9_4_4_v20170414.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jdom_jdom_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_3_70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_spek_spek_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_jetbrains_spek_spek_junit_platform_engine_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_json_json_20180130.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_slf4j_slf4j_nop_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_threeten_threetenbp_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__org_zeromq_jeromq_0_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/libraries/Gradle__software_amazon_ion_ion_java_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/modules/FruitSeller.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/modules/FruitSeller.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/FruitSeller.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/assets/webTemplates/BASIC/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/assets/webTemplates/BASIC/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/assets/webTemplates/BASIC/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/assets/webTemplates/BASIC/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/META-INF/FruitSeller.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/FruitsellerSkill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/FruitData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/GeneralKt$Idle$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/GeneralKt$Idle$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/GeneralKt$Idle$1$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/GeneralKt$Idle$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/GeneralKt$Interaction$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/GeneralKt$Interaction$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/GeneralKt$Interaction$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/GeneralKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$$special$$inlined$onResponse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$$special$$inlined$onResponse$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$$special$$inlined$onResponse$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$$special$$inlined$onResponse$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$$special$$inlined$onResponse$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$$special$$inlined$onResponse$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$ConfirmOrder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$$special$$inlined$onResponse$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Options$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$OrderReceived$1$$special$$inlined$onResponse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$OrderReceived$1$$special$$inlined$onResponse$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$OrderReceived$1$$special$$inlined$onResponse$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$OrderReceived$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$OrderReceived$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$OrderReceived$1$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$OrderReceived$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Start$1$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Start$1$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Start$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$Start$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$TakingOrder$1$$special$$inlined$onResponse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$TakingOrder$1$$special$$inlined$onResponse$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$TakingOrder$1$$special$$inlined$onResponse$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$TakingOrder$1$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$TakingOrder$1$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$TakingOrder$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$TakingOrder$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt$TakingOrder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/InteractionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/flow/UsersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/nlu/BuyFruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/nlu/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/nlu/FruitList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/nlu/QuantifiedFruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/nlu/RequestOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/classes/kotlin/main/furhatos/app/fruitseller/nlu/RequestPurpose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradle/.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradle/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradle/.gradle/4.10/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradle/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradle/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-10-22-22-32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-20-42-35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-20-44-59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-20-55-13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-20-57-37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-21-06-31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-21-13-36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-21-23-07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-21-24-36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-21-32-25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-21-57-45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-21-58-54.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-21-59-27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-01-11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-02-26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-08-34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-10-36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-12-22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-23-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-24-32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-29-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-31-50.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-34-41.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-43-46.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-48-11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-51-03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-11-22-54-39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-04-29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-08-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-08-31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-27-07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-36-49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-46-11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-49-38.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-50-17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-51-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-52-14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-56-42.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-58-08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-13-59-30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-00-40.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-01-19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-02-07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-02-42.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-03-58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-12-34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-13-35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-14-26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-15-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-15-37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-18-22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-19-20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-20-52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-21-36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-23-42.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-26-28.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-30-52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-32-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-36-07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-46-45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-14-54-55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-15-06-59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-15-08-12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-15-11-27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-12-15-15-39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-14-00-14-37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2021-11-14-00-23-08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2022-01-12-16-43-39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2022-01-12-16-45-59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2022-01-12-16-55-05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/logs/2022-01-12-17-06-19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/skill.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/.gradle/4.10/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/flow/general.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/flow/interaction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/nlu/nlu.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/users.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/FruitSeller">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FruitSeller" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23bZ2VTUYcItpPScqhN56Egk6UN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FruitSeller" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt (1)">
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="furhatos.app.fruitseller.MainKt" />
+      <module name="Furhat-Medical-Assistant.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="furhatos.app.fruitseller.MainKt" />
+      <module name="FruitSeller.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abf1126d-549d-4d5a-b738-7b0e62592a00" name="Changes" comment="" />
+      <created>1642004540331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642004540331</updated>
+    </task>
+    <servers />
+  </component>
+</project>
